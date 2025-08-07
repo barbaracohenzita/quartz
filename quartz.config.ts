@@ -3,7 +3,7 @@ const config: QuartzConfig = {
     pageTitle: "Quartz 4",
     // Change to your desired site title
     ...
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://barbaracohenzita.github.io/quartz/",
     // Change to your site URL without https://.
     // This is your own domain,
     // or "<github-user-name>.github.io/<repository-name>" when using GitHub Pages.
